@@ -5,5 +5,6 @@
 3. make `age` be private in `Driver`.
 4. simplify if-else in `Policy`'s `checkDriver` function.
 5. extract constance of `18` as `MIN_ADULT_AGE`.
-6. rename `checkDriver` to `isAdulthood`.  
+6. rename `checkDriver` to `isAdulthood`.
+7. add `nonNull` check to prevent NPE.  
 
